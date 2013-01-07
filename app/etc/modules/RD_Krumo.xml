@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <RD_Krumo>
+      <active>true</active>
+      <codePool>local</codePool>
+      <version>0.1.0</version>
+    </RD_Krumo>
+  </modules>
+</config>
