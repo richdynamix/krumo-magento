@@ -88,3 +88,15 @@ Authors
   [kaloyan.info]: http://kaloyan.info/krumo/
   [documentation]: http://kaloyan.info/krumo/index.php#docs
   [click here]: http://kaloyan.info/krumo/demo/index.php
+
+<!-- richdynamix-bio:start -->
+
+## About the author
+
+Built and maintained by [Steven Richardson](https://richdynamix.com) — CTO at Digitonic and Laravel engineer.
+
+- Site & articles: [richdynamix.com](https://richdynamix.com)
+- Laravel deep-dives: [richdynamix.com/articles](https://richdynamix.com/articles)
+- More open source: [github.com/richdynamix](https://github.com/richdynamix)
+
+<!-- richdynamix-bio:end -->
